@@ -1,3 +1,5 @@
+import React from 'react';
+
 import cardHeader from '../public/image-header-mobile.jpg';
 
 import SingleStat from '../Components/SingleStat';
