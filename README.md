@@ -15,10 +15,10 @@ https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
 
 ## Screenshots
 
-### Desktop!
+### Desktop
 <img src="https://github.com/the-rabblerouser/frontend-Mentor-Stats-Preview-Card-Component/blob/main/FinishedImages/DesktopFinished.png" />
 
-### Mobile!
+### Mobile
 <img src="https://github.com/the-rabblerouser/frontend-Mentor-Stats-Preview-Card-Component/blob/main/FinishedImages/MobileFinished.png" />
 
 
