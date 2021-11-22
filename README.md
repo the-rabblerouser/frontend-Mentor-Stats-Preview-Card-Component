@@ -1,12 +1,13 @@
-# JoeMcCann.tech - A place for me to showcase my work.
+# Frontend Mentor - Stats Preview Card Component.
 ![React](https://img.shields.io/badge/React-17.0.1-61dafb)
 ![Next](https://img.shields.io/badge/Next.js-%5E10.1.3-0baf7c)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%5E5.12.3-0baf7c)
 ![React Spring](https://img.shields.io/badge/ReactSpring-%5E9.1.0-82adc9)
 
+## Frontend Mentor Challenge Page
 https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
 
-<!-- [Checkout it out!](http://joemccann.tech) -->
+<!-- [Checkout it out!](http://) -->
 
 
 ## Features
